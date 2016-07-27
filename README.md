@@ -15,7 +15,7 @@ Udacity recommends our students install [Anaconda](https://www.continuum.io/down
 
 ### Code
 
-Template code is provided in the notebook `student_intervention.ipynb` notebook file. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+Completed code is provided in the notebook `student_intervention.ipynb` notebook file. 
 
 ### Run
 
@@ -26,6 +26,7 @@ In a terminal or command window, navigate to the top-level project directory `st
 
 This will open the iPython Notebook software and project file in your browser.
 
+HTML report is available under 'student_intervention.html' file
 ## Data
 
 The dataset used in this project is included as `student-data.csv`. This dataset has the following attributes:
